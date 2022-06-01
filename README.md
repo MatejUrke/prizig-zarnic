@@ -4,3 +4,4 @@
 
 
 Materiali, ki sva jih uporabila za izdelavo projekta: žičke, 2edice, arduino, protobord, 4 tipke, upore,
+
