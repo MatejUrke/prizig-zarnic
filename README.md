@@ -5,4 +5,4 @@
 
 Materiali, ki sva jih uporabila za izdelavo projekta: žičke, 2edice, arduino, protobord, 4 tipke, upore,
 
-[![slika vezja]()
+[![slika vezja](https://raw.githubusercontent.com/MatejUrke/prizig-zarnic/main/image_67505921.JPG)
