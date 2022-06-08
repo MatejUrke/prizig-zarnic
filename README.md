@@ -6,3 +6,4 @@
 Materiali, ki sva jih uporabila za izdelavo projekta: 13x žičke, 2X led diode, arduino, protobord, 4x tipke, 6x upore,
 
 [![slika vezja](https://raw.githubusercontent.com/MatejUrke/prizig-zarnic/main/image_67505921.JPG)
+[![Pravilnostna tabela]()
