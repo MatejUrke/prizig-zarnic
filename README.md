@@ -15,3 +15,7 @@ priredbeni tabela:
 slika vezja:
 
 [![fritzing izrez slike](https://raw.githubusercontent.com/MatejUrke/prizig-zarnic/main/slika%20vezja.PNG)
+
+video delovanja:
+
+[![video delovanja]()
