@@ -9,6 +9,7 @@ slika vezja:
 [![slika vezja](https://raw.githubusercontent.com/MatejUrke/prizig-zarnic/main/image_67505921.JPG)
 
 pravilnostna tabela:
+
 [![Pravilnostna tabela](https://raw.githubusercontent.com/MatejUrke/prizig-zarnic/main/pravilnostna%20tabela.PNG)
 
 slika vezja:
