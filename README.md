@@ -16,6 +16,4 @@ slika vezja:
 
 [![fritzing izrez slike](https://raw.githubusercontent.com/MatejUrke/prizig-zarnic/main/slika%20vezja.PNG)
 
-video delovanja:
-
-[![video delovanja]()
+komentar na delovanje: Dosti problemov sva imela z pisanjem kode saj ob pritisku na tipko led diode niso pravilno svetile, ker je same gumbe težko programirat.Ampak sva nakoncu uspela vse rešit in zdaj naprava deluje popolno in brez napak
