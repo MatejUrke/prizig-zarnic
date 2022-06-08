@@ -7,4 +7,4 @@ Materiali, ki sva jih uporabila za izdelavo projekta: 13x žičke, 2X led diode,
 
 [![slika vezja](https://raw.githubusercontent.com/MatejUrke/prizig-zarnic/main/image_67505921.JPG)
 
-[![fritzing slika vezja](https://raw.githubusercontent.com/MatejUrke/prizig-zarnic/main/image_67505921.JPG)
+[![fritzing slika vezja](https://raw.githubusercontent.com/MatejUrke/https:/github.com/MatejUrke/prizig-zarnic/blob/main/fritzing%20slika.pdf)
