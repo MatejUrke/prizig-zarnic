@@ -19,9 +19,9 @@ slika vezja:
 komentar na delovanje: Dosti problemov sva imela z pisanjem kode saj ob pritisku na tipko led diode niso pravilno svetile, ker je same gumbe težko programirat.Ampak sva nakoncu uspela vse rešit in zdaj naprava deluje popolno in brez napak
 
 
-[![slika vezja mitshubishi](https://github.com/MatejUrke/prizig-zarnic/blob/main/Schematic_MITSHUBISHI%20MIK_2022-06-15.pdf)
+[![slika vezja mitshubishi]()
 
-[![slika vezja EasySoft](https://github.com/MatejUrke/prizig-zarnic/blob/main/Schematic_mik-%20123_2022-06-15.pdf)
+[![slika vezja EasySoft]()
 
 
 
