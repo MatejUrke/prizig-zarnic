@@ -10,7 +10,7 @@ slika vezja:
 
 priredbeni tabela:
 
-[![priredbena tabela]()
+[![priredbena tabela](https://raw.githubusercontent.com/MatejUrke/prizig-zarnic/main/priredbeni%20seznam.PNG)
 
 slika vezja:
 
