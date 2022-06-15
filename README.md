@@ -21,7 +21,7 @@ komentar na delovanje: Dosti problemov sva imela z pisanjem kode saj ob pritisku
 
 [![slika vezja mitshubishi]()
 
-[![slika vezja EasySoft]()
+[![slika vezja EasySoft](https://raw.githubusercontent.com/MatejUrke/prizig-zarnic/main/EASY.PNG)
 
 
 
